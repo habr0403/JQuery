@@ -4,18 +4,18 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #b310e1;
-    margin: 0;
+    margin: 12;
 }
 
 .box {
     width: 100px;
     height: 100px;
-    background-color: #101010;
+    background-color: #d90a0a;
     margin: 10px;
     border-radius: 20px;
     opacity: 0.8;
     font-style: italic;
   font-weight: bold;
   font-display: center;
-  box-shadow: 18px 8px 5px #444;
+  box-shadow: 18px 8px 5px #f9f4f4;
 }
