@@ -10,7 +10,9 @@
         },
         function() {
             
-            $(this).animate({
+            $(async (params) => {
+                
+            }).animate({
                 width: '100px',
                 height: '100px',
                 opacity: 0.8
