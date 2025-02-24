@@ -3,19 +3,19 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #b310e1;
     margin: 0;
 }
 
 .box {
     width: 100px;
     height: 100px;
-    background-color: #ed0d20;
+    background-color: #101010;
     margin: 10px;
     border-radius: 20px;
     opacity: 0.8;
     font-style: italic;
   font-weight: bold;
   font-display: center;
-  box-shadow: 8px 8px 5px #444;
+  box-shadow: 18px 8px 5px #444;
 }
