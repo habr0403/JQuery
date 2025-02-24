@@ -1,5 +1,5 @@
-$(document).ready(function() {
-    $('.box').hover(
+(document).ready(function() {
+    $('box').hover(
         function() {
             
             $(this).animate({
