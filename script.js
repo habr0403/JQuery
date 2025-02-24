@@ -15,7 +15,7 @@
             }).animate({
                 width: '100px',
                 height: '100px',
-                opacity: 0.8
+                opacity: 15
             }, 800, 'easeInElastic'); 
         }
     );
